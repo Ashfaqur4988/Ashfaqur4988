@@ -4,11 +4,13 @@ Welcome to my GitHub! I'm a Full-Stack Developer transitioning to a Full-Stack G
 
 ## 🌱 Currently Learning
 
-I'm exploring **Django** and **AWS services** to build robust backend solutions and enhance my deployment skills.
+- I'm exploring **Django** and **AWS services** to build robust backend solutions and enhance my deployment skills.
 
 ## 📫 Let's Connect!
 
 - **Email**: ashfakurriaz@gmail.com
 - **LinkedIn**: [Ashfaqur Riaz](https://www.linkedin.com/in/ashfaqur-riaz)
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashfaqur4988&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 I'm always open to collaborate on new projects or just chat about tech! Feel free to reach out.
