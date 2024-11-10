@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="![alt text](image.png)" height="100" /></a>
+
 
 <!--
 **Ashfaqur4988/Ashfaqur4988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
