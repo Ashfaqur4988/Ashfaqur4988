@@ -4,8 +4,7 @@ Welcome to my GitHub! I'm a Full-Stack Developer transitioning to a Full-Stack G
 
 ## 🌱 Currently Learning
 
-- I'm exploring **Django** and **AWS services** to build robust backend solutions and enhance my deployment skills.
-- I'm learning **WebRTC** implementation to add functionality in my chat application project.
+- I'm exploring **Java Spring Boot** and **AWS services** to build robust backend solutions and enhance my deployment skills.
 
 ## 📫 Let's Connect!
 
